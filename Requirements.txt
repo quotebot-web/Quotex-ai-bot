@@ -1,0 +1,6 @@
+selenium
+requests
+twilio
+pandas
+ta
+python-telegram-bot
